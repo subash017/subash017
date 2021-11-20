@@ -1,4 +1,10 @@
 ## Hi, I'm <a href="https://Subash J.me" target="_blank">Subash J</a>!
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=subash017&label=Profile%20views&color=0e75b6&style=flat" alt="subash017" /> </p>
+
+- 🔭 I’m currently Studying in **Indian Institute of Information Technology Sricity**
+
+- 📫 How to reach me **jsubash016@gmail.com**
 <p align="left">
 <a href="https://linkedin.com/in/subash-j-74875b191" target="_blank"><img align="left" alt="Subash J | LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" /></a>
 <a href="https://instagram.com/subash017/" target="_blank"><img align="left" alt="Subash J | Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" /></a>
@@ -27,6 +33,7 @@
 <a href="https://www.arduino.cc/" target="_blank"> <img align="left" alt="Arduino" width="26px" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"/> </a> 
 <a href="https://www.linux.org" target="_blank"> <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/> </a>
 <a href="https://www.flutter.com" target="_blank"> <img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"/> </a>
+<a href="https://www.matlab.com" target="_blank"> <img align="left" alt="Matalb" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg"/> </a>
 
 
 <br />
