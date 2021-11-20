@@ -1,5 +1,4 @@
 ## Hi, I'm <a href="https://Subash J.me" target="_blank">Subash J</a>!
-(Use dark theme to find my socials ;)
 <p align="left">
 <a href="https://linkedin.com/in/subash-j-74875b191" target="_blank"><img align="left" alt="Subash J | LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" /></a>
 <a href="https://instagram.com/subash017/" target="_blank"><img align="left" alt="Subash J | Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" /></a>
