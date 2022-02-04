@@ -1,4 +1,7 @@
-## Hi, I'm <a href="https://Subash J.me" target="_blank">Subash J</a>!
+## Hi, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /> I'm <a href="https://Subash J.me" target="_blank">Subash J</a>!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subash017&label=Profile%20views&color=0e75b6&style=flat" alt="subash017" /> </p>
 
